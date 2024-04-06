@@ -1,3 +1,5 @@
+![tux](https://github.com/edi386/Quick-Linux-Distro-Choice-Guide/assets/166058453/0d9d9724-4705-419f-9098-1daf10e5aa39)
+
 # Quick-Linux-Distro-Choice-Guide
 Yeah, that's what the name just said :)
 
